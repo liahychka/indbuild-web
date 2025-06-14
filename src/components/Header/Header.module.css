@@ -1,0 +1,12 @@
+.link {
+    text-decoration: none;
+    font: 500 16px / 1.5 "Inter", sans-serif;
+    text-align: center;
+    color: #101828;
+    margin-left: 32px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
